@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Babel",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Java Velocity",
+		"JsFormat",
+		"LESS",
+		"MarkdownEditing",
+		"Material Theme",
+		"OmniMarkupPreviewer",
+		"OpenInBrowser",
+		"Package Control",
+		"Package Syncing",
+		"phpfmt",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Terminal",
+		"TortoiseSVN"
+	]
+}

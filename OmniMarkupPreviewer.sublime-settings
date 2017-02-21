@@ -1,0 +1,8 @@
+{
+  "server_port": 51010,
+  "renderer_options-MarkdownRenderer": {
+      // solve the error that
+      // buffer_id(31) is not valid ...
+      "extensions": ["tables", "fenced_code", "codehilite"]
+    }
+}
