@@ -25,7 +25,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown"
+		"Markdown",
+		"TortoiseSVN"
 	],
 	"rulers":
 	[
